@@ -27,10 +27,7 @@
 
 3. **Run the script:**
    ```sh   
-   python findstorebyip.py
-
-
-
+   python findstorebyip.py  
 
 ## 👤 Author
 👨‍💻 **Rodrigo Coelho**  
