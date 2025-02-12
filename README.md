@@ -17,9 +17,22 @@
    git clone https://github.com/seu-usuario/FindStoreByIP.git
    cd FindStoreByIP
 
+## 🚀 Usage
 
-👨‍💻 Rodrigo Coelho
-📧 Contact: https://rodrigocoelho.e
+2. **Create a file ips.txt containing a list of IPs (one per line), for example:**
+    10.11.222.33
+    10.44.555.66
+
+3. **Run the script:**
+   ```sh   
+   python findstorebyip.py
+
+
+
+
+## 👤 Author
+👨‍💻 **Rodrigo Coelho**
+📧 Contact: [https://rodrigocoelho.me]
 🌐 GitHub: github.com/rodrigocoelhome
 
 If you find this project useful, feel free to contribute, open issues, or leave a ⭐ on GitHub!
