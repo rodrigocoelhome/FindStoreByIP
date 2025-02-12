@@ -28,7 +28,13 @@
 
 3. **Run the script:**
    ```sh   
-   python findstorebyip.py  
+   python findstorebyip.py
+
+4. **Output example (resultado_ping.csv):**
+   ```sh
+   IP             Store Name
+   10.11.222.33	ABCDXYZ
+   10.44.555.66	MNOPQRS  
 
 ## 👤 Author
 👨‍💻 **Rodrigo Coelho**  
