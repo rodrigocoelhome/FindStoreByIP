@@ -22,6 +22,7 @@
 ## 🚀 Usage
 
 2. **Create a file ips.txt containing a list of IPs (one per line), for example:**  
+   ```sh    
     10.11.222.33  
     10.44.555.66
 
