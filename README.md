@@ -1,6 +1,8 @@
 # FindStoreByIP
 
-🔍 **FindStoreByIP** is a Python script that identifies store information from IP addresses. It uses the `ping -a` command to resolve machine names and extract relevant information from the ping response.
+🔍 **FindStoreByIP** is a Python script that identifies store information from IP addresses. It uses the `ping -a` command to resolve machine names and extract relevant information from the ping response.  
+
+🔍 **FindStoreByIP**  é um script Python que identifica informações a partir de endereços IPs. Ele utiliza o comando `ping -a` para resolver os nomes das máquinas e extrair a informação do retorno do ping.  
 
 ## 📌 Features
 ✅ Reads a list of IPs from a file (`ips.txt`).  
